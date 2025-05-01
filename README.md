@@ -44,14 +44,19 @@ This project showcases my data cleaning skills using SQL on a real-world dataset
 
 ---
 
-## 📬 Contact
-
-**Muhammad Umer Haider**  
-📧 umer.haider0002@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umer-haider-933913213/) | [GitHub](https://github.com/mumerhaider)
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+**Muhammad Umer Haider**  
+Data Analyst | Software Engineer  
+📧 Email: [umer.haider0002@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umer-haider-933913213/)
+
+---
+
+
